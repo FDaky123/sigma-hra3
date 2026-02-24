@@ -1,0 +1,1 @@
+global.load_game = false;
